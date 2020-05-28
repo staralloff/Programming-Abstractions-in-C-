@@ -1,3 +1,7 @@
+/*
+ * This program output a charts to describe WindChill with wind speed and
+ * Temperature.
+ */
 #include <iostream>
 #include <cmath>
 using namespace std;

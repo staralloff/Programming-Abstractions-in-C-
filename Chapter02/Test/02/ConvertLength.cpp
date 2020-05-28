@@ -1,3 +1,7 @@
+/*
+ * This program convert meters to inch and feet at the same time
+ * with reference parameter.
+ */
 #include <iostream>
 using namespace std;
 

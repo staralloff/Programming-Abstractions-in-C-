@@ -1,3 +1,6 @@
+/*
+ * This program convert integer type to float type with rounding.
+ */
 #include <iostream>
 using namespace std;
 
