@@ -92,6 +92,7 @@ void setRandomSeed(int seed) {
 void initRandomSeed() {
     static bool initialized = false;
     if (!initialized) {
+        // srand((unsigned)time(NULL));
         srand(int(time(NULL)));
         initialized = true;
     }

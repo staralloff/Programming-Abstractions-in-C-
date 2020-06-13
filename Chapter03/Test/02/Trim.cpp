@@ -10,17 +10,17 @@ bool isspace(char ch);
 int main() {
     string s;
     cout << "Please input a string: " << endl;
-    cin >> s;
+    getline(cin, s);
     trim(s);
     return 0;
 }
 
 void trim(string str)
 {
-    string newStr;
+    string newStr = "";
     for(int i=0;i<str.length();i++) {
         if(!isspace(char(str.at(i)))) {
-            newStr += str.at(i);
+            newStr += str[i];
         }
     }
     cout << newStr << endl;
