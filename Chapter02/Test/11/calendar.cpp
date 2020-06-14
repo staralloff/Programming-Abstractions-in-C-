@@ -27,28 +27,21 @@ int main() {
 }
 
 int daysInMonth(Month m, int & y) {
-    switch ((m+1) % 12) {
-        case 1: return 31;
-        case 2: if(isLeapYear(y)) return 29; else return 28;
-        case 3: return 31;
-        case 4: return 30;
-        case 5: return 31;
-        case 6: return 30;
-        case 7: return 31;
-        case 8: return 31;
-        case 9: return 30;
-        case 10: return 31;
-        case 11: return 30;
-        case 0: return 31;
-        default: return 0;
+    switch (m) {
+        case APRIL:
+        case JUNE:
+        case SEPTEMBER:
+        case NOVEMBER:
+          return 30;
+        case FEBRUARY:
+          return (isLeapYear(y)) ? 29 : 28;
+        default: 
+          return 31;
     }
 }
 
 bool isLeapYear(int & y) {
-    if(y % 4 == 0 || y % 100 != 0 || y % 400 == 0)
-        return true;
-    else
-        return false;
+    return ((y % 4 == 0 && y % 100 != 0)) || (y % 400 == 0);
 }
 
 string monthToString(Month m) {
