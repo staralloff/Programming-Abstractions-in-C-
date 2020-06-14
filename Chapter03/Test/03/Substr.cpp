@@ -20,8 +20,9 @@ string substr(string str, int pos, int n);
 int main() {
     string s;
     int position, len;
-    cout << "Enter the string and sub string's start position and sub string's length: " << endl;
+    cout << "Enter the string: " << endl;
     getline(cin, s);
+    cout << "Enter the sub string's start position and sub string's length, separate with space: " << endl;
     cin >> position >> len;
     cout << substr(s, position, len) << endl;
     return 0;
