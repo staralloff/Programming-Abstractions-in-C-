@@ -4,6 +4,9 @@
  * This program add a list of Integers. culculate the average.
  * The end of input is indicated by entering a sentinel value,
  * which is defined by setting the value of the constant SENTINEL.
+ * 
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

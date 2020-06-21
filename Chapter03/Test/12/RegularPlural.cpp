@@ -1,3 +1,6 @@
+/*
+ * This file return the regular plural of the input words.
+ */
 #include <iostream>
 #include <string>
 #include "RegularPlural.h"

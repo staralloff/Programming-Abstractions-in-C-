@@ -1,5 +1,7 @@
 /*
  * This program simulate 10000 atoms' radioactive decay.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

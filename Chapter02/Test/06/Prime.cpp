@@ -1,5 +1,7 @@
 /*
  * This program output a prime number between 1 and 100.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

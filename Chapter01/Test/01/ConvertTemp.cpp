@@ -1,5 +1,7 @@
 /*
- * This program is convert C to F for temperature.
+ This file transfer the temperature from °C to °F
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
  */
 
 #include <iostream>

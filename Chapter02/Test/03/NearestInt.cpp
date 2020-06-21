@@ -1,5 +1,7 @@
 /*
  * This program convert integer type to float type with rounding.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

@@ -1,6 +1,8 @@
 /*
  * This program use a method called successive approximation to
  * implements the function "sqrt(x)" in <cmath>
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

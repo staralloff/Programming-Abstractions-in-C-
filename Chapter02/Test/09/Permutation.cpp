@@ -1,5 +1,7 @@
 /*
  * This program use a quick method to calculate P(n,k);
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

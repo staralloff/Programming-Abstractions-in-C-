@@ -1,3 +1,8 @@
+/*
+ This file output the largest and second largest number in input numbers that end with 0.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

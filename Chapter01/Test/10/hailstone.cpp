@@ -1,3 +1,8 @@
+/*
+ This file output a hailstone sequence based on input number.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

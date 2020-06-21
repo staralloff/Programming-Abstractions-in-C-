@@ -1,3 +1,8 @@
+/*
+ This file output the 1-100's sum.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

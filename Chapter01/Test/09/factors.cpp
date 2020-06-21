@@ -1,3 +1,8 @@
+/*
+ This file factors a number with prime factorization.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

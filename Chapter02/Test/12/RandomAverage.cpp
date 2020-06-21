@@ -1,6 +1,8 @@
 /*
  * This program let user input a integer N, then create N random integer, between 0 to 1.
  * at last, it will output the average.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

@@ -1,3 +1,8 @@
+/*
+ * This file print ordinal form of the input number.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
+ */
 #include <iostream>
 #include <string>
 using namespace std;

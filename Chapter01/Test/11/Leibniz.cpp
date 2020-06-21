@@ -1,3 +1,8 @@
+/*
+ This file calculate the pi with 1-1/3+1/5-1/7+1/9... which found by Leibniz.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

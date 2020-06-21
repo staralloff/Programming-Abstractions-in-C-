@@ -1,6 +1,8 @@
 /*
  * This is a scrabble game which indicate every letter's score
  * than print the sum.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

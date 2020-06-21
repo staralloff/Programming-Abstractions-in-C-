@@ -1,5 +1,7 @@
 /*
  * This program output the acronym of the input string.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

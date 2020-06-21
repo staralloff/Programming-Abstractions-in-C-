@@ -1,6 +1,8 @@
 /*
  * This program convert meters to inch and feet at the same time
  * with reference parameter.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

@@ -1,5 +1,7 @@
 /*
  * This file declare two Functions.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #ifndef _combinatorics_h

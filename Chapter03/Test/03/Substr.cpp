@@ -7,6 +7,8 @@
  * 1.if miss n or n bigger than str.length, the sub string should ends
  * at the tail of str.
  * 2.if pos bigger than str.length, print the error msg.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

@@ -1,5 +1,7 @@
 /*
  * This program convert C to F for temperature with function.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

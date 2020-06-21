@@ -1,5 +1,7 @@
 /*
  * This program like test 07 with erase(pos, n) method in <string>
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

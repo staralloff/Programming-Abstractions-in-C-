@@ -1,3 +1,8 @@
+/*
+ This file calculate the pi with cut the quarter to more and more rectangle,the more the better.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 #include <cmath>
 using namespace std;

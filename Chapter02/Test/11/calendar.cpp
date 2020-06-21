@@ -1,5 +1,7 @@
 /*
  * This program calculate all months' days of the year which you input.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

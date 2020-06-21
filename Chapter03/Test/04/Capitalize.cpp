@@ -3,6 +3,8 @@
  * is Capital.
  * For example: capitalize("BOOLEAN") and capitalize("boolean")
  * all return "Boolean"
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

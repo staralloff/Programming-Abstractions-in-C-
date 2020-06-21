@@ -1,6 +1,8 @@
 /*
  * This program output a charts to describe WindChill with wind speed and
  * Temperature.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <cmath>

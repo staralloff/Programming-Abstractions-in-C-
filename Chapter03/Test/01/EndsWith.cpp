@@ -1,3 +1,6 @@
+/*
+ * This file inplements the endsWith(str, suffix) function.
+ */
 #include <iostream>
 #include <string>
 using namespace std;

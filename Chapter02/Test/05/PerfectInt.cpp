@@ -1,5 +1,7 @@
 /*
  * This program output a perfect integer between 1 and 10000.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

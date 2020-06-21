@@ -1,6 +1,8 @@
 /*
  * This program implements digits to commas.
  * like 1000000 to 1,000,000
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

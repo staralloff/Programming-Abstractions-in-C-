@@ -13,6 +13,9 @@
  *
  * 3. If the word begins with a vowel, add "way" to the
  *    end of the word.
+ * 
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 
 #include <iostream>

@@ -1,5 +1,7 @@
 /*
  * This program use random to calculate PI.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <cstdlib>

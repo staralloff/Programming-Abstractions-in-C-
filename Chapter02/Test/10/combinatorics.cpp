@@ -1,5 +1,7 @@
 /*
  * This interface implements combinatorics.h
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include "combinatorics.h"

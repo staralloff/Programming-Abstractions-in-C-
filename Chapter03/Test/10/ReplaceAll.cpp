@@ -1,5 +1,7 @@
 /*
  * This program return a string which replace str1 with str2.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>

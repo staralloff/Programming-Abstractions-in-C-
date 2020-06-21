@@ -1,3 +1,8 @@
+/*
+ This file transfer the meter to inch and feet.
+ Author: Xin, Shi(Orion)
+ Created: 2020/06.
+ */
 #include <iostream>
 using namespace std;
 

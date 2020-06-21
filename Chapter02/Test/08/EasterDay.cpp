@@ -1,5 +1,7 @@
 /*
  * This program use Year to calculate the Easter Day.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 using namespace std;

@@ -1,5 +1,7 @@
 /*
  * This program to output how may times you can get 3 consecutive heads with flip coin.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <cstdlib>

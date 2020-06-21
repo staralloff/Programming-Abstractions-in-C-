@@ -1,6 +1,8 @@
 /*
  * This program remove the characters which is given in the string 'remove',
  * then return the new string.
+ * Author: Xin, Shi(Orion)
+ * Created: 2020/06.
  */
 #include <iostream>
 #include <string>
